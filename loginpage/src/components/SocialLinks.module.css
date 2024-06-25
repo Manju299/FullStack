@@ -1,0 +1,13 @@
+.SocialLinks {
+  margin: 5px;
+  width: 32px;
+  height: 32px;
+  filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(233deg)
+    brightness(81%) contrast(219%);
+  cursor: pointer ;
+}
+
+.SocialLinks:hover {
+  filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(233deg)
+    brightness(69%) contrast(339%);
+}

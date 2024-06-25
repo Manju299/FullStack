@@ -1,0 +1,32 @@
+.inputfield {
+  padding: 15px;
+  border: none;
+  width: 80%;
+  margin: 4px;
+  /* border-left: 5px solid #5e1ded; */
+  margin-bottom: 10px;
+  /* border-radius: 2px; */
+}
+
+.inputfield:hover {
+  /* box-shadow: 5px solid #5e1ded; */
+  box-shadow: inset 5px 0px 0px 0px #5e1ded;
+}
+
+.buttons {
+  display: flex;
+  
+  /* padding: 22px 40px; */
+}
+
+.links {
+  display: flex;
+}
+/* .login_container{
+
+
+} */
+
+.result {
+  color: #5e1ded;
+}
